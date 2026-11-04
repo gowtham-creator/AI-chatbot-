@@ -4,11 +4,13 @@
 
 ### React Chatbotify
 
+React Chatbotify: a React and TypeScript chatbot component library built with Vite, MIT licensed.
+
 <br>
 
 [![React](https://img.shields.io/badge/React-18.2-4C1D95?style=for-the-badge&labelColor=1E1B4B)](https://react.dev) [![TypeScript](https://img.shields.io/badge/TypeScript-5.1-5B21B6?style=for-the-badge&labelColor=1E1B4B)](https://www.typescriptlang.org) [![Vite](https://img.shields.io/badge/Vite-4.5-7C3AED?style=for-the-badge&labelColor=1E1B4B)](https://vite.dev)
 
-![license](https://img.shields.io/badge/license-MIT-4C1D95?style=flat-square&labelColor=1E1B4B) ![language](https://img.shields.io/badge/language-TypeScript-5B21B6?style=flat-square&labelColor=1E1B4B) ![updated](https://img.shields.io/badge/updated-2023--11--13-4C1D95?style=flat-square&labelColor=1E1B4B)
+![license](https://img.shields.io/badge/license-MIT-4C1D95?style=flat-square&labelColor=1E1B4B) ![language](https://img.shields.io/badge/language-TypeScript-5B21B6?style=flat-square&labelColor=1E1B4B) ![updated](https://img.shields.io/badge/updated-2026--11--04-4C1D95?style=flat-square&labelColor=1E1B4B)
 
 </div>
 
@@ -16,7 +18,7 @@
 
 ## What this is
 
-React 18 site with 17 components. Also checked in: 3 test files and 2 markdown documents. The sections below are read from the repository itself, 88 tracked files as of 2023-11-13.
+A React chatbot component library (React Chatbotify) in React 18 and TypeScript, built with Vite and shipped under MIT. 17 components with a test suite.
 
 The code is laid out as:
 
